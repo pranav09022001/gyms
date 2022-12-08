@@ -1,0 +1,88 @@
+*{
+padding:0px;
+margin:0px;
+}
+#navul ul li{
+width:150px;
+font-size:20px;
+
+}
+#navul ul li a{
+text-align:center;
+font-family:verdana;
+color:grey;	
+}
+#navul ul li a:hover{
+color:white;
+}
+.carousel-inner a{
+color:white;
+font-family:verdana;
+font-weight:bold;
+}
+.carousel-inner img{
+width:100%;	
+}
+hr{
+background:black;	
+}
+h4{
+margin-bottom:20px;	
+color:#77b300;
+text-align:center;
+}
+#pic:hover{
+-webkit-transform: scaleX(-1);
+ transform: scaleX(-1);
+ }	
+.images div a:hover{
+text-decoration:underline #77b300;
+}
+a:link{
+color:white;	
+}
+.cont1{
+border:solid 2px #77b300;
+border-radius:20px;	
+}
+.cont1 a{
+color:black;	
+font-weight:bold;
+
+}
+.cont1 h4{
+	padding-top:20px;
+}
+.cont2{
+border:solid 2px #77b300;
+border-radius:20px;	
+}
+.cont2 a{
+color:black;	
+font-weight:bold;
+
+}
+.cont2 h4{
+	padding-top:20px;
+}
+#zoom:hover{
+ 			-webkit-transform: scaleX(-1);
+  			transform: scaleX(-1);
+ }
+ .read:hover{
+	 color:blue;
+	 
+ }
+ #foot{
+	 font-size:17px;
+ }
+ #for{
+width:300px; 
+display:inline; 
+margin-left:10px;
+margin-bottom:20px;
+ }
+ label{
+	margin-left:50px; 
+	 font-weight:bold;
+ }
