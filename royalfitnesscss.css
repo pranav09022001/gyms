@@ -138,9 +138,9 @@ margin-bottom:100px;
 	transform:scaleX(-1);
 	
 }
-@media screen and (max-width:385px){
+@media only screen and (max-width:385px){
 
-	.fimg img{
+	.fimg {
 		height:100PX;
 		width:100PX;
 	}
