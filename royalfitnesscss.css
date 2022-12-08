@@ -144,7 +144,12 @@ margin-bottom:100px;
 		height:80%;
 		width:80%;
 	}
-	.per{
-		font-size:15px;
+	.per h1{
+		font-size:38px !important;
+		
 	}
+	
+	html{
+		overflow-x:hidden !important; 
+		}
 }
