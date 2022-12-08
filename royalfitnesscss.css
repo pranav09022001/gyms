@@ -141,7 +141,10 @@ margin-bottom:100px;
 @media only screen and (max-width:385px){
 
 	.fimg {
-		height:100%;
-		width:100%;
+		height:80%;
+		width:80%;
+	}
+	.per{
+		font-size:15px;
 	}
 }
