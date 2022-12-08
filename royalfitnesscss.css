@@ -138,3 +138,10 @@ margin-bottom:100px;
 	transform:scaleX(-1);
 	
 }
+@media screen and (max-width:385px){
+
+	.fimg img{
+		height:100PX;
+		width:100PX;
+	}
+}
