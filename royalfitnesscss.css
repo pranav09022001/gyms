@@ -6,6 +6,9 @@ margin:0px;
 html{
 overflow-x:hidden; 
 }
+body{
+	overflow-x:hidden; 	
+}
 .row{    
 margin-right:0px;
 }
