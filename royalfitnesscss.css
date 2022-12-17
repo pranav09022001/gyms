@@ -149,11 +149,12 @@ margin-bottom:100px;
 		
 	}
 	
-	html{
+	body{
 		overflow-x:hidden !important; 
 		}
 
 		.program{
 			font-size: 50px !important;
 		}
+		
 }
