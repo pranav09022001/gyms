@@ -92,8 +92,8 @@ color:white;
 	
 }
 #con input{
-	width:200px;
-	height:50px;
+	width:100%;
+	height:100%;
 	border:solid 1px;
 	border-radius:5px;
 	background:#424949;
@@ -151,5 +151,9 @@ margin-bottom:100px;
 	
 	html{
 		overflow-x:hidden !important; 
+		}
+
+		.program{
+			font-size: 50px !important;
 		}
 }
