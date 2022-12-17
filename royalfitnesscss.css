@@ -165,5 +165,7 @@ margin-bottom:100px;
 		.program{
 			font-size: 50px !important;
 		}
-		
+		.email p{
+			font-size: 5px !important;
+		}
 }
